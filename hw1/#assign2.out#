@@ -1,0 +1,3473 @@
+Username:  rollers
+Date:      Mon Feb 11 15:34:24 EST 2019
+ 
+*** compiling lab2 ***
+--- Running ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collection of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 20
+
+20 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 21
+
+21 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 22
+
+22 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 23
+
+23 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 24
+
+24 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 25
+
+25 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 26
+
+26 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 27
+
+27 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 28
+
+28 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 29
+
+29 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 30
+
+30 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 31
+
+31 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 32
+
+32 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 33
+
+33 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 34
+
+34 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 35
+
+35 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 36
+
+36 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 37
+
+37 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 38
+
+38 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 39
+
+39 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 40
+
+40 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 41
+
+41 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 50
+
+50 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 51
+
+51 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 52
+
+52 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 53
+
+53 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 54
+
+54 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 55
+
+55 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 56
+
+56 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 57
+
+57 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 58
+
+58 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 59
+
+59 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 60
+
+60 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 61
+
+61 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 62
+
+62 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 63
+
+63 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 64
+
+64 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 65
+
+65 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 66
+
+66 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 67
+
+67 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 68
+
+68 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 69
+
+69 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 70
+
+70 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 71
+
+71 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are not equal
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 10
+
+collection1 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 11
+
+collection2 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 7
+
+Collection1 does not contain 7
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 20
+
+Collection1 does contain 20
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 40
+
+Collection1 does not contain 40
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 39
+
+Collection1 does not contain 39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 50
+
+Collection2 does not contain 50
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 1
+
+Collection2 does contain 1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 70
+
+Collection2 does not contain 70
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 71
+
+Collection2 does not contain 71
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 66
+
+Collection2 does not contain 66
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 8
+
+collection2 now has the same contents as collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 10
+
+collection1 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 11
+
+collection2 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 5
+
+5 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 78
+
+78 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 77
+
+77 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 9
+
+collection1 now has the same contents as collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 4
+
+77 was removed from collection2
+
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 3
+
+1 was removed from collection1
+
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 4
+
+3 was removed from collection2
+
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 4
+
+1 was removed from collection2
+
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 4
+
+collection2 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 4
+
+collection2 is empty so nothing can be removed
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 10
+
+collection1 is empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 11
+
+collection2 is empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 16
+
+Deconstructor is Executing
+Deconstructor is Executing
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collection of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 10
+
+collection1 is empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 11
+
+collection2 is empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 16
+
+Deconstructor is Executing
+Deconstructor is Executing
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collection of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 10
+
+collection1 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 11
+
+collection2 is not empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 16
+
+Deconstructor is Executing
+Deconstructor is Executing
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collection of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 2
+
+2 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 3
+
+3 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 1
+
+1 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 2
+
+2 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was not added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are not equal
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 7
+
+7 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 8
+
+8 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 9
+
+9 was not added to collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 8
+
+collection2 now has the same contents as collection1
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 20
+
+20 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 30
+
+30 was added to collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+20
+30
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 9
+
+collection1 now has the same contents as collection2
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+20
+30
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 6
+
+20
+30
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are equal
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 16
+
+Deconstructor is Executing
+Deconstructor is Executing
+ 

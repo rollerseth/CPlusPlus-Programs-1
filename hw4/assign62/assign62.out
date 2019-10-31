@@ -1,0 +1,411 @@
+Username:  rollers
+Date:      Tue Mar 19 08:50:33 EDT 2019
+ 
+*** making assign62 ***
+g++ -c -Wall -g assign62.cpp
+g++ -c -Wall -g queuea.cpp
+g++ assign62.o queuea.o -g -o assign62
+--- Running ---
+ 
+
+Constructor is executing
+
+Name: Seth Roller
+Lab Name: Queues
+Problem: An ADT called queue has been implemented 
+so that users can modify a queues's contents.
+
+1. Enqueue data onto queue
+2. Dequeue and print data from the queue
+3. Print data at the front without dequeing
+4. Print entire queue
+5. Print status: empty or not empty
+6. Exit the menu loop
+
+Enter your option: 
+You entered 5
+
+The queue is empty
+
+Enter your option: 
+You entered 2
+
+The queue is empty
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added into the queue
+
+Enter your option: 
+You entered 6
+
+Deconstructor is executing
+--- Running again ---
+ 
+
+Constructor is executing
+
+Name: Seth Roller
+Lab Name: Queues
+Problem: An ADT called queue has been implemented 
+so that users can modify a queues's contents.
+
+1. Enqueue data onto queue
+2. Dequeue and print data from the queue
+3. Print data at the front without dequeing
+4. Print entire queue
+5. Print status: empty or not empty
+6. Exit the menu loop
+
+Enter your option: 
+You entered 5
+
+The queue is empty
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added into the queue
+
+Enter your option: 
+You entered 4
+
+1
+
+Enter your option: 
+You entered 3
+
+The front of the queue: 1
+
+Enter your option: 
+You entered 5
+
+The queue is NOT empty
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 2
+
+2 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 3
+
+3 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 4
+
+4 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 5
+
+5 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 6
+
+6 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 7
+
+7 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 8
+
+8 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 9
+
+9 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 10
+
+10 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 11
+
+11 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 12
+
+12 was added into the queue
+
+Enter your option: 
+You entered 4
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Enter your option: 
+You entered 2
+
+1 has been deleted from the queue
+
+Enter your option: 
+You entered 4
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 13
+
+13 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 14
+
+14 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 15
+
+15 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 16
+
+16 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 17
+
+17 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 18
+
+18 was added into the queue
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 19
+
+19 was added into the queue
+
+Enter your option: 
+You entered 4
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Enter your option: 
+You entered 2
+
+2 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+3 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+4 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+5 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+6 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+7 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+8 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+9 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+10 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+11 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+12 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+13 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+14 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+15 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+16 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+17 has been deleted from the queue
+
+Enter your option: 
+You entered 2
+
+18 has been deleted from the queue
+
+Enter your option: 
+You entered 4
+
+19
+
+Enter your option: 
+You entered 2
+
+19 has been deleted from the queue
+
+Enter your option: 
+You entered 5
+
+The queue is empty
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added into the queue
+
+Enter your option: 
+You entered 4
+
+1
+
+Enter your option: 
+You entered 6
+
+Deconstructor is executing
+ 

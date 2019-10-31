@@ -1,0 +1,370 @@
+Username:  rollers
+Date:      Thu Feb 21 09:25:05 EST 2019
+ 
+*** making assign4a ***
+g++ -c -Wall -g assign4a.cpp
+g++ -c -Wall -g list.cpp
+g++ assign4a.o list.o -g -o assign4a
+--- Running ---
+ 
+
+Constructor is executing
+
+
+Name: Seth Roller
+Lab Name: Introduction to Linked Lists
+Problem: An ADT called list has been implemented to
+so that users can modify a list's contents.
+
+1. Display the List
+2. Find an item
+3. Insert an element into the list
+4. Delete an element from the list
+5. Display the number of elements in the list
+6. Exit the menu loop
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 8
+
+8 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 1
+
+1 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 9
+
+9 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 30
+
+30 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 33
+
+33 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 23
+
+23 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 3
+
+3 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 20
+
+20 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 500
+
+500 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 77
+
+77 was inserted into the list
+
+Enter your option: 
+You entered 1
+
+1
+3
+8
+9
+20
+23
+30
+33
+77
+500
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 9
+
+9 was found in position 4 of the list
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 550
+
+550 was not found in the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 20
+
+20 was inserted into the list
+
+Enter your option: 
+You entered 1
+
+1
+3
+8
+9
+20
+20
+23
+30
+33
+77
+500
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 75
+
+75 was inserted into the list
+
+Enter your option: 
+You entered 1
+
+1
+3
+8
+9
+20
+20
+23
+30
+33
+75
+77
+500
+
+Enter your option: 
+You entered 4
+
+Enter an integer: 
+You entered 75
+
+75 has been deleted from the list
+
+Enter your option: 
+You entered 1
+
+1
+3
+8
+9
+20
+20
+23
+30
+33
+77
+500
+
+Enter your option: 
+You entered 4
+
+Enter an integer: 
+You entered 9
+
+9 has been deleted from the list
+
+Enter your option: 
+You entered 1
+
+1
+3
+8
+20
+20
+23
+30
+33
+77
+500
+
+Enter your option: 
+You entered 5
+
+The list has 10 elements
+
+Enter your option: 
+You entered 6
+
+Deconstructor is executing
+
+---running again-
+ 
+
+Constructor is executing
+
+
+Name: Seth Roller
+Lab Name: Introduction to Linked Lists
+Problem: An ADT called list has been implemented to
+so that users can modify a list's contents.
+
+1. Display the List
+2. Find an item
+3. Insert an element into the list
+4. Delete an element from the list
+5. Display the number of elements in the list
+6. Exit the menu loop
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 8
+
+8 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 9
+
+9 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 30
+
+30 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 33
+
+33 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 23
+
+23 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 20
+
+20 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 500
+
+500 was inserted into the list
+
+Enter your option: 
+You entered 3
+
+Enter an integer: 
+You entered 77
+
+77 was inserted into the list
+
+Enter your option: 
+You entered 1
+
+8
+9
+20
+23
+30
+33
+77
+500
+
+Enter your option: 
+You entered 4
+
+Enter an integer: 
+You entered 8
+
+8 has been deleted from the list
+
+Enter your option: 
+You entered 4
+
+Enter an integer: 
+You entered 23
+
+23 has been deleted from the list
+
+Enter your option: 
+You entered 4
+
+Enter an integer: 
+You entered 500
+
+500 has been deleted from the list
+
+Enter your option: 
+You entered 1
+
+9
+20
+30
+33
+77
+
+Enter your option: 
+You entered 6
+
+Deconstructor is executing
+
+ 

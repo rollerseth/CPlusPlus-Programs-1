@@ -1,0 +1,15 @@
+
+CFLAGS = -c -Wall -g
+LFLAGS = -g -o assign43
+
+assign43: assign43.o listc.o
+	g++ assign43.o listc.o $(LFLAGS)
+
+assign43.o: assign43.cpp listc.h
+	g++ $(CFLAGS) assign43.cpp
+
+listc.o: listc.cpp listc.h
+	g++ $(CFLAGS) listc.cpp
+
+clean:
+	rm -f assign43 *.o *~ *#

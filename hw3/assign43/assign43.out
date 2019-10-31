@@ -1,0 +1,158 @@
+Username:  rollers
+Date:      Thu Mar 14 11:24:50 EDT 2019
+ 
+*** making assign43***
+g++ -c -Wall -g assign43.cpp
+g++ -c -Wall -g listj.cpp
+g++ assign43.o listj.o -g -o assign43
+--- Running ---
+ 
+
+Enter N, the number of nodes in the list: You entered 10
+
+Enter M, the number of nodes in the list: You entered 1
+
+Default Constructor is executing
+
+my list is
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+deleting 2
+deleting 4
+deleting 6
+deleting 8
+deleting 10
+deleting 3
+deleting 7
+deleting 1
+deleting 9
+The winner with n= 10 and m= 1 is 5
+
+Deconstructor is executing
+
+--- Running again ---
+ 
+
+Enter N, the number of nodes in the list: You entered 10
+
+Enter M, the number of nodes in the list: You entered 3
+
+Default Constructor is executing
+
+my list is
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+deleting 4
+deleting 8
+deleting 2
+deleting 7
+deleting 3
+deleting 10
+deleting 9
+deleting 1
+deleting 6
+The winner with n= 10 and m= 3 is 5
+
+Deconstructor is executing
+
+--- Running again ---
+ 
+
+Enter N, the number of nodes in the list: You entered 5
+
+Enter M, the number of nodes in the list: You entered 0
+
+Default Constructor is executing
+
+my list is
+1
+2
+3
+4
+5
+
+deleting 1
+deleting 2
+deleting 3
+deleting 4
+The winner with n= 5 and m= 0 is 5
+
+Deconstructor is executing
+
+--- Running again ---
+ 
+
+Enter N, the number of nodes in the list: You entered 5
+
+Enter M, the number of nodes in the list: You entered 1
+
+Default Constructor is executing
+
+my list is
+1
+2
+3
+4
+5
+
+deleting 2
+deleting 4
+deleting 1
+deleting 5
+The winner with n= 5 and m= 1 is 3
+
+Deconstructor is executing
+
+--- Running again ---
+ 
+
+Enter N, the number of nodes in the list: You entered 10
+
+Enter M, the number of nodes in the list: You entered 10
+
+Default Constructor is executing
+
+my list is
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+deleting 1
+deleting 3
+deleting 6
+deleting 10
+deleting 8
+deleting 9
+deleting 5
+deleting 2
+deleting 4
+The winner with n= 10 and m= 10 is 7
+
+Deconstructor is executing
+
+ 

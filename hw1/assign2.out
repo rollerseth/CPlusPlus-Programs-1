@@ -1,0 +1,1093 @@
+Username:  rollers
+Date:      Tue Feb 12 15:16:37 EST 2019
+ 
+*** compiling lab2 ***
+--- Running ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collections of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+
+Enter your option: 
+You entered 6
+
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 20
+
+20 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 21
+
+21 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 22
+
+22 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 23
+
+23 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 24
+
+24 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 25
+
+25 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 26
+
+26 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 27
+
+27 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 28
+
+28 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 29
+
+29 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 30
+
+30 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 31
+
+31 was added to collection1
+
+Enter your option: 
+You entered 5
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Enter your option: 
+You entered 6
+
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 32
+
+32 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 33
+
+33 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 34
+
+34 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 35
+
+35 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 36
+
+36 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 37
+
+37 was added to collection1
+
+Enter your option: 
+You entered 5
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 38
+
+38 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 39
+
+39 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 40
+
+40 was not added to collection1 since collection1 is full
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 41
+
+41 was not added to collection1 since collection1 is full
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 50
+
+50 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 51
+
+51 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 52
+
+52 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 53
+
+53 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 54
+
+54 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 55
+
+55 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 56
+
+56 was added to collection2
+
+Enter your option: 
+You entered 6
+
+50
+51
+52
+53
+54
+55
+56
+
+Enter your option: 
+You entered 5
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 57
+
+57 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 58
+
+58 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 59
+
+59 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 60
+
+60 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 61
+
+61 was added to collection2
+
+Enter your option: 
+You entered 6
+
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 62
+
+62 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 63
+
+63 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 64
+
+64 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 65
+
+65 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 66
+
+66 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 67
+
+67 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 68
+
+68 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 69
+
+69 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 70
+
+70 was not added to collection2 since collection2 is full
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 71
+
+71 was not added to collection2 since collection2 is full
+
+Enter your option: 
+You entered 6
+
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are not equal
+
+Enter your option: 
+You entered 10
+
+collection1 is not empty
+
+Enter your option: 
+You entered 11
+
+collection2 is not empty
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 7
+
+collection1 does not contain 7
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 20
+
+collection1 does contain 20
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 40
+
+collection1 does not contain 40
+
+Enter your option: 
+You entered 14
+
+Enter an integer: 
+You entered 39
+
+collection1 does contain 39
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 50
+
+collection2 does contain 50
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 1
+
+collection2 does not contain 1
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 70
+
+collection2 does not contain 70
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 71
+
+collection2 does not contain 71
+
+Enter your option: 
+You entered 15
+
+Enter an integer: 
+You entered 66
+
+collection2 does contain 66
+
+Enter your option: 
+You entered 8
+
+collection2 now has the same contents as collection1
+
+Enter your option: 
+You entered 10
+
+collection1 is not empty
+
+Enter your option: 
+You entered 11
+
+collection2 is not empty
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 5
+
+5 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 78
+
+78 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 77
+
+77 was added to collection2
+
+Enter your option: 
+You entered 9
+
+collection1 now has the same contents as collection2
+
+Enter your option: 
+You entered 3
+
+77 was removed from collection1
+
+
+Enter your option: 
+You entered 4
+
+77 was removed from collection2
+
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection1
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection2
+
+Enter your option: 
+You entered 3
+
+1 was removed from collection1
+
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+Enter your option: 
+You entered 3
+
+collection1 is empty so nothing can be removed
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection2
+
+Enter your option: 
+You entered 4
+
+3 was removed from collection2
+
+
+Enter your option: 
+You entered 4
+
+1 was removed from collection2
+
+
+Enter your option: 
+You entered 4
+
+collection2 is empty so nothing can be removed
+
+Enter your option: 
+You entered 4
+
+collection2 is empty so nothing can be removed
+
+Enter your option: 
+You entered 10
+
+collection1 is empty
+
+Enter your option: 
+You entered 11
+
+collection2 is empty
+
+Enter your option: 
+You entered 16
+
+You have exited the program
+
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collections of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 10
+
+collection1 is empty
+
+Enter your option: 
+You entered 11
+
+collection2 is empty
+
+Enter your option: 
+You entered 16
+
+You have exited the program
+
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collections of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 5
+
+
+Enter your option: 
+You entered 6
+
+
+Enter your option: 
+You entered 10
+
+collection1 is empty
+
+Enter your option: 
+You entered 11
+
+collection2 is empty
+
+Enter your option: 
+You entered 12
+
+collection1 is now empty
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 16
+
+You have exited the program
+
+--- Running again ---
+ 
+
+Constructor is Executing
+Constructor is Executing
+
+Name: Seth Roller
+Lab Name: Class Templates
+Problem: A collection template has been implemented to
+modify two collections of integers.
+
+1. Add an item onto collection1
+2. Add an item onto collection2
+3. Remove an item from collection1
+4. Remove an item from collection2
+5. Display collection1
+6. Display collection2
+7. Compare collection1 and collection2
+8. Assign collection1 to collection2
+9. Assign collection2 collection1
+10.Is collection1 empty
+11.Is collection2 empty
+12.Make collection1 empty
+13.Make collection2 empty
+14.Determine if an item is in collection1
+15.Determine if an item is in collection2
+16.Exit
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 2
+
+2 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection1
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 1
+
+1 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 2
+
+2 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 3
+
+3 was added to collection2
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are equal
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 7
+
+7 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 8
+
+8 was added to collection1
+
+Enter your option: 
+You entered 1
+
+Enter an integer: 
+You entered 9
+
+9 was added to collection1
+
+Enter your option: 
+You entered 5
+
+1
+2
+3
+7
+8
+9
+
+Enter your option: 
+You entered 6
+
+1
+2
+3
+
+Enter your option: 
+You entered 8
+
+collection2 now has the same contents as collection1
+
+Enter your option: 
+You entered 5
+
+1
+2
+3
+7
+8
+9
+
+Enter your option: 
+You entered 6
+
+1
+2
+3
+7
+8
+9
+
+Enter your option: 
+You entered 13
+
+collection2 is now empty
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 20
+
+20 was added to collection2
+
+Enter your option: 
+You entered 2
+
+Enter an integer: 
+You entered 30
+
+30 was added to collection2
+
+Enter your option: 
+You entered 5
+
+1
+2
+3
+7
+8
+9
+
+Enter your option: 
+You entered 6
+
+20
+30
+
+Enter your option: 
+You entered 9
+
+collection1 now has the same contents as collection2
+
+Enter your option: 
+You entered 5
+
+20
+30
+
+Enter your option: 
+You entered 6
+
+20
+30
+
+Enter your option: 
+You entered 7
+
+collection1 and collection2 are equal
+
+Enter your option: 
+You entered 16
+
+You have exited the program
+
+ 

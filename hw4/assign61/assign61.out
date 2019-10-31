@@ -1,0 +1,94 @@
+Username:  rollers
+Date:      Tue Mar 19 08:42:34 EDT 2019
+ 
+*** making assign61 ***
+g++ -c -Wall -g assign61.cpp
+g++ assign61.o queuei.o -g -o assign61
+--- Running ---
+ 
+Constructor is executing
+please enter the name of the file containing your data:
+The file name entered is /home/mathcs/turnin/bracken/input611.text
+About to insert 10 into the queue 
+Successfully inserted 10
+About to insert 22 into the queue 
+Successfully inserted 22
+About to insert 33 into the queue 
+Successfully inserted 33
+About to insert 44 into the queue 
+Successfully inserted 44
+About to insert 55 into the queue 
+Successfully inserted 55
+About to insert 66 into the queue 
+Successfully inserted 66
+About to insert 77 into the queue 
+Successfully inserted 77
+About to insert 88 into the queue 
+Successfully inserted 88
+About to insert 99 into the queue 
+Successfully inserted 99
+The queue contents are:
+10
+22
+33
+44
+55
+66
+77
+88
+99
+
+Time to add up to find the sum
+
+successfully poped 10
+successfully pushed 10
+successfully poped 22
+successfully pushed 22
+successfully poped 33
+successfully pushed 33
+successfully poped 44
+successfully pushed 44
+successfully poped 55
+successfully pushed 55
+successfully poped 66
+successfully pushed 66
+successfully poped 77
+successfully pushed 77
+successfully poped 88
+successfully pushed 88
+successfully poped 99
+successfully pushed 99
+The sum: 494
+The average: 54
+Deconstructor is executing
+--- Running again ---
+ 
+Constructor is executing
+please enter the name of the file containing your data:
+The file name entered is /home/mathcs/turnin/bracken/input612.text
+About to insert 555 into the queue 
+Successfully inserted 555
+The queue contents are:
+555
+
+Time to add up to find the sum
+
+successfully poped 555
+successfully pushed 555
+The sum: 555
+The average: 555
+Deconstructor is executing
+--- Running again ---
+ 
+Constructor is executing
+please enter the name of the file containing your data:
+The file name entered is /home/mathcs/turnin/bracken/input613.text
+The queue contents are:
+The queue is empty
+
+Time to add up to find the sum
+
+The sum: 0
+The average: 0
+Deconstructor is executing
+ 
